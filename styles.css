@@ -22,10 +22,5 @@ color: white;
 }
 
 
-/* Chicken noodle soup index */
 
-.cns-container{
-  display: flex;
-  justify-content: center;
-  flex-direction: row;
-}
+

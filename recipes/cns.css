@@ -1,0 +1,14 @@
+.cns-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.cns-ingredients li{
+  width: 300px;
+  
+}
+
+.cns-steps{
+  width: 300px;
+}

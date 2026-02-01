@@ -1,6 +1,5 @@
-
- 
- .recipe-list{ 
+/* index.html css */
+.recipe-list{ 
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -22,3 +21,11 @@ li a{
 color: white;
 }
 
+
+/* Chicken noodle soup index */
+
+.cns-container{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
